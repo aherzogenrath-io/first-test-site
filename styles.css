@@ -1,7 +1,13 @@
 body {
     background-color: rgb(36, 40, 41);
+    border: solid lightblue;
+    padding: 30px;
+    margin: 200px;
 }
-
+hr {
+    padding: 0px;
+    margin: 0px;
+}
 h1 {
     color: lightgrey;
     text-align: center;
